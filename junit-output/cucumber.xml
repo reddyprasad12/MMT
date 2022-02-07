@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="186.028">
+<testcase classname="verifying functionalities in makemytrip portal" name="verifying functionalities in makemytrip portal" time="185.561">
+<system-out><![CDATA[Given Given user is already on home page....................................passed
+When user select source and destination.....................................passed
+When user select departure and return date..................................passed
+When user select passengers like adults and childrens combination...........passed
+When user select low priced airlines and click book now button..............passed
+Then user navigate to paymentgate way page..................................passed
+]]></system-out>
+</testcase>
+</testsuite>
